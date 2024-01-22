@@ -29,7 +29,7 @@ const HomeFeeds = () => {
     <div className="flex flex-col h-screen w-screen">
       <div
         id="stickyHeader"
-        className="flex flex-row justify-between border shadow p-2 fixed top-0 w-full bg-white"
+        className="flex flex-row justify-between border shadow p-2 fixed top-0 w-full bg-white bg-opacity-80"
       >
         <div id="logo">
           <a href="#">My Insta</a>
